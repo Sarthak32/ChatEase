@@ -4,15 +4,15 @@
 
 
 ## Features :
-**1. Authenticate users**
-Example Users : username : Leader , Password : 12345
-                username : sam_col , Password : sam12
-**2. Create chats and messages**
-**3. Image Support**
-**4. Add and remove people from chats**
-**5. Edit and delete chat and message data**
-**6. Used Chatengine.io for hosting backend
-**7. Deployed the website on netlify**
+**1. Authenticate users** <br />
+Example Users : username : Leader , Password : 12345 <br />
+                username : sam_col , Password : sam12 <br />
+**2. Create chats and messages** <br />
+**3. Image Support** <br />
+**4. Add and remove people from chats** <br />
+**5. Edit and delete chat and message data** <br />
+**6. Used Chatengine.io for hosting backend** <br />
+**7. Deployed the website on netlify** <br />
 
 
 ### Desktop preview:
