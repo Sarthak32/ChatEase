@@ -22,7 +22,9 @@ Example Users : <br />username : Leader , Password : 12345 <br />
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/92269596/217229634-a30925d8-bc0a-4ed2-aecb-677061598924.png)
 
-![Screenshot (4)](https://user-images.githubusercontent.com/92269596/217229711-2f5ec90d-3043-40d9-bbb0-a35ba30439f0.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/92269596/217241469-a10dfe60-4c19-44a2-be8e-ff06176385de.png)
+
+
 
 ### Mobile Preview:
 ![Screenshot (5)](https://user-images.githubusercontent.com/92269596/217230282-bcb37bfe-8b24-4e99-8c18-6141f98dd053.png)
