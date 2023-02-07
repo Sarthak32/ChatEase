@@ -3,18 +3,18 @@
 **Website link: https://chatease-app.netlify.app/ **
 
 ## Tech used: 
-React
-chatengine
-Rest Api
+-React
+-chatengine
+-Rest Api
 
 ## Features :
-**Authenticate users**
+**1.Authenticate users**
 Example Users : username : Leader , Password : 12345
                 username : sam_col , Password : sam12
-**Create chats and messages**
-**Image Support**
-**Add and remove people from chats**
-**Edit and delete chat and message data**
+**2.Create chats and messages**
+**3.Image Support**
+**4.Add and remove people from chats**
+**5.Edit and delete chat and message data**
 
 
 ### Desktop preview:
@@ -30,5 +30,5 @@ Example Users : username : Leader , Password : 12345
 ![Screenshot (6)](https://user-images.githubusercontent.com/92269596/217230320-b986f109-6a5c-45f4-b04a-2cd0935546b5.png)
 
 
-### Disclaimer
+### Disclaimer:
 **Since this was my first React App/website made.This repository might contain few features I wish to change or remove.I am trying to slowly fix these issues. You are welcome to open issues if you find any.**
