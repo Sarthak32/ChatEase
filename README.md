@@ -1,64 +1,21 @@
-# ChatEase React chat App
+# ChatEase Chat App
 
-Website link: https://chatease-app.netlify.app/
+**Website link: https://chatease-app.netlify.app/ **
 
-## Available Scripts
+## Tech used: 
+React
+chatengine
+Rest Api
 
-In the project directory, you can run:
+## Features :
+**Authenticate users**
+Example Users : username : Leader , Password : 12345
+                username : sam_col , Password : sam12
+**Create chats and messages**
+**Image Support**
+**Add and remove people from chats**
+**Edit and delete chat and message data**
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Desktop preview:
 ![Screenshot (1)](https://user-images.githubusercontent.com/92269596/217229524-4722b3c7-f109-4c70-8f0d-bbf51e2b87f2.png)
@@ -73,3 +30,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ![Screenshot (6)](https://user-images.githubusercontent.com/92269596/217230320-b986f109-6a5c-45f4-b04a-2cd0935546b5.png)
 
 
+### Disclaimer
+**Since this was my first React App/website made.This repository might contain few features I wish to change or remove.I am trying to slowly fix these issues. You are welcome to open issues if you find any.**
