@@ -1,12 +1,14 @@
 # ChatEase Chat App
 
-**Website link: https://chatease-app.netlify.app/ **
+**Website link: https://chatease-app.netlify.app/** </br>
+
+**React App**
 
 
 ## Features :
 **1. Authenticate users** <br />
-Example Users : username : Leader , Password : 12345 <br />
-                username : sam_col , Password : sam12 <br />
+Example Users : <br />username : Leader , Password : 12345 <br />
+        username : sam_col , Password : sam12 <br />
 **2. Create chats and messages** <br />
 **3. Image Support** <br />
 **4. Add and remove people from chats** <br />
